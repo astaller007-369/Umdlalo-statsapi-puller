@@ -160,7 +160,7 @@ TARGET_LEAGUES_RAW = [
     ("Scotland", "League One"),
     ("Slovakia", "Slovensky Pohar"),
     ("Greece", "Stoiximan Super League"),
-    ("Argentina", "Liga Profesional"),
+    ("Saudi Arabia", "Saudi 1st Division"),
     ("Egypt", "Premier League"),
     ("Mexico", "Liga MX Apertura"),
     ("Mexico", "Liga MX Clausura"),
